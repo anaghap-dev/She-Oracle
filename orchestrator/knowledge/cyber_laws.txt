@@ -1,0 +1,352 @@
+DIGITAL SAFETY & CYBER LAWS FOR WOMEN IN INDIA
+================================================
+
+INFORMATION TECHNOLOGY ACT, 2000 (IT Act) — KEY SECTIONS
+----------------------------------------------------------
+
+Section 43 — Unauthorised Access to Computer Resources
+- Penalty for unauthorised access, downloading, or extracting data from another's computer.
+- Covers hacking into email accounts, social media, or personal devices.
+- Civil remedy: compensation up to Rs 1 crore.
+
+Section 43A — Compensation for Failure to Protect Data
+- Applies to body corporates (companies, platforms) that negligently handle sensitive personal data.
+- Victims can claim compensation if a platform fails to protect their data after a breach.
+
+Section 66 — Computer Related Offences
+- Imprisonment up to 3 years or fine up to Rs 5 lakh, or both.
+- Applies to: dishonestly accessing computer resources, unauthorised downloads, data theft.
+
+Section 66A (Struck Down) — Note
+- Section 66A was struck down by the Supreme Court in Shreya Singhal v. Union of India (2015).
+- Posting "offensive" messages online is no longer a criminal offence under this section.
+
+Section 66C — Identity Theft
+- Fraudulently using another person's electronic signature, password, or unique identification feature.
+- Punishment: Imprisonment up to 3 years AND fine up to Rs 1 lakh.
+- Covers: stealing login credentials, impersonating someone on social media, using someone's OTP/UPI.
+
+Section 66D — Cheating by Personation Using Computer Resource
+- Using a computer resource to cheat by impersonating another person.
+- Punishment: Imprisonment up to 3 years AND fine up to Rs 1 lakh.
+- Covers: fake profiles, romance scams, impersonation for financial fraud.
+
+Section 66E — Violation of Privacy
+- Intentional capture, publishing, or transmitting the image of a person's private area without consent.
+- Punishment: Imprisonment up to 3 years OR fine up to Rs 2 lakh.
+- Covers: voyeurism, upskirting, recording without consent in private spaces.
+
+Section 66F — Cyber Terrorism
+- Acts intended to threaten the unity, integrity, security, or sovereignty of India using computer resources.
+- Punishment: Imprisonment for life.
+
+Section 67 — Publishing Obscene Material in Electronic Form
+- Publishing or transmitting obscene material electronically.
+- First conviction: Imprisonment up to 3 years AND fine up to Rs 5 lakh.
+- Subsequent conviction: Imprisonment up to 5 years AND fine up to Rs 10 lakh.
+- Applies to: sending explicit messages, sharing obscene images via WhatsApp/social media.
+
+Section 67A — Publishing Sexually Explicit Material
+- Publishing or transmitting sexually explicit material involving adults (consensual acts depicted).
+- First conviction: Imprisonment up to 5 years AND fine up to Rs 10 lakh.
+- Subsequent conviction: Imprisonment up to 7 years AND fine up to Rs 10 lakh.
+
+Section 67B — Child Pornography / CSAM
+- Publishing, transmitting, or browsing material that sexually exploits children.
+- First conviction: Imprisonment up to 5 years AND fine up to Rs 10 lakh.
+- Subsequent: Imprisonment up to 7 years AND fine up to Rs 10 lakh.
+
+Section 72 — Breach of Confidentiality and Privacy
+- Disclosing information of another person without consent while being in a position of trust or authority.
+- Punishment: Imprisonment up to 2 years OR fine up to Rs 1 lakh.
+
+Section 72A — Disclosure of Information in Breach of Lawful Contract
+- Unauthorized disclosure of personal information in breach of a contract.
+- Punishment: Imprisonment up to 3 years OR fine up to Rs 5 lakh.
+
+
+INDIAN PENAL CODE (IPC) / BHARATIYA NYAYA SANHITA (BNS) — CYBER OFFENCES
+--------------------------------------------------------------------------
+
+Section 354C IPC / Section 77 BNS — Voyeurism
+- Watching or capturing image of a woman in private act without consent.
+- First conviction: Imprisonment 1–3 years + fine.
+- Subsequent: Imprisonment 3–7 years + fine.
+
+Section 354D IPC / Section 78 BNS — Stalking
+- Following a woman or monitoring online activities despite clear disinterest.
+- First conviction: Imprisonment up to 3 years + fine.
+- Subsequent: Imprisonment up to 5 years + fine.
+- Cyber stalking: repeatedly following on social media, tracking location, sending persistent unwanted messages.
+
+Section 499 & 500 IPC / Section 356 BNS — Defamation
+- Making false imputations to damage reputation via electronic means.
+- Imprisonment up to 2 years OR fine.
+- Cyber defamation: fake posts, screenshots with fabricated captions, false reviews.
+
+Section 503 IPC / Section 351 BNS — Criminal Intimidation
+- Threatening a person with harm to cause fear or force them to do/not do something.
+- Covers: death threats via WhatsApp, threatening messages on social media.
+
+Section 506 IPC / Section 351 BNS — Punishment for Criminal Intimidation
+- Imprisonment up to 2 years, or fine, or both.
+- If threat is of causing death or grievous hurt: Imprisonment up to 7 years.
+
+Section 507 IPC — Criminal Intimidation by Anonymous Communication
+- Sending anonymous threats (unidentified sender).
+- Imprisonment up to 2 years.
+
+Section 509 IPC / Section 79 BNS — Word, Gesture, Act Intended to Insult Modesty of Women
+- Uttering any word, making sound, gesture, or electronic object to intrude upon privacy of a woman.
+- Imprisonment up to 3 years AND fine.
+- Covers: obscene messages, sexual harassment via electronic means.
+
+
+NON-CONSENSUAL INTIMATE IMAGE (NCII) / REVENGE PORN
+----------------------------------------------------
+
+Legal Framework:
+- Section 66E IT Act — primary provision (violation of privacy by capturing private images)
+- Section 67A IT Act — publishing sexually explicit material
+- Section 354C IPC — voyeurism
+- Section 500 IPC — defamation
+- Section 506 IPC — criminal intimidation (if used to threaten)
+
+How to Report NCII:
+1. Cybercrime Portal: www.cybercrime.gov.in — File complaint under "Report Cyber Crime"
+2. Platform Takedown: Use platform's "Report" feature; reference Section 67/67A IT Act in report.
+3. NCPCR Helpline: 1098 (if minors involved)
+4. Police: File FIR at local police station or cyber cell.
+
+Evidence Preservation for NCII:
+- Take screenshots with timestamps.
+- Note URLs, profile links, usernames.
+- Do NOT delete original content before reporting — platforms need the link to remove it.
+
+
+CYBERBULLYING AND ONLINE HARASSMENT
+------------------------------------
+
+Definition: Repeated harmful behavior directed at an individual through digital means.
+
+Types:
+1. Trolling — Deliberately provoking and upsetting someone with hostile messages.
+2. Doxxing — Publishing private personal information (address, phone number) online without consent.
+3. Impersonation — Creating fake profiles to defame or harass.
+4. Spamming — Flooding someone with unwanted messages.
+5. Pile-on harassment — Coordinated group attacks targeting one person.
+6. Gaslighting — Manipulating someone into questioning their own reality via messages.
+
+Legal Remedies for Cyberbullying:
+- Section 66C (identity theft if impersonation involved)
+- Section 66D (cheating by personation)
+- Section 67 (if obscene content shared)
+- Section 503/506 IPC (criminal intimidation if threats made)
+- Section 499/500 IPC (defamation if false statements made)
+
+Where to Report:
+1. National Cyber Crime Reporting Portal: www.cybercrime.gov.in
+2. Cyber Cell of local police
+3. Women Helpline: 1091
+4. iCall (TISS Helpline): 9152987821
+
+
+ONLINE FINANCIAL FRAUD
+-----------------------
+
+Common Types:
+1. UPI Fraud — Fraudulent payment requests via UPI apps (PhonePe, GPay, Paytm).
+2. Phishing — Fake emails/messages posing as banks to steal credentials.
+3. OTP Fraud — Tricking victim into sharing OTP via social engineering.
+4. Matrimonial Fraud — Romance scams through matrimonial sites.
+5. Job Fraud — Fake job offers requiring "registration fee" or "security deposit".
+6. Investment Fraud — Ponzi schemes promoted via WhatsApp/Telegram groups.
+
+Legal Provisions:
+- Section 66C IT Act — Identity theft (fraudulently using someone's OTP, password).
+- Section 66D IT Act — Cheating by personation using computer resource.
+- Section 420 IPC — Cheating and dishonestly inducing delivery of property.
+- Section 415 IPC — Cheating (obtaining consent by deceiving).
+
+Where to Report:
+1. Cybercrime Portal: www.cybercrime.gov.in
+2. National Helpline 1930 (Cyber Financial Fraud — call within first hour for best chance of freezing money)
+3. Bank's fraud helpline immediately if bank credentials compromised
+4. RBI Ombudsman if bank is unresponsive
+
+
+HARASSMENT SEVERITY FRAMEWORK
+-------------------------------
+
+Level 1 — Low Severity (Uncomfortable but not threatening):
+- Unsolicited romantic messages (single instance)
+- Mild offensive comments
+- Unwanted friend requests/follows
+- Recommended Action: Block, report to platform, document.
+
+Level 2 — Moderate Severity (Pattern of harassment):
+- Repeated unwanted messages after being blocked/ignored
+- Defamatory posts (false statements)
+- Impersonation accounts (fake profiles)
+- Sharing private conversations without consent
+- Recommended Action: Document all evidence, file complaint on cybercrime.gov.in, consider legal notice.
+
+Level 3 — High Severity (Direct harm to safety):
+- Explicit threats of violence or sexual assault
+- Doxxing (publishing home address, phone number)
+- Stalking (tracking physical movements)
+- Non-consensual intimate image sharing / threats to share
+- Recommended Action: IMMEDIATELY file police FIR, apply for protection order, contact cyber cell.
+
+Level 4 — Critical Severity (Immediate danger):
+- Credible death threats with personal information
+- Active physical stalking combined with online threats
+- Coordinated mob harassment with doxxing
+- Sexual extortion (sextortion) with active demands
+- Recommended Action: Contact police (100), apply for emergency protection order, preserve ALL evidence, consider temporary relocation of information.
+
+
+ESCALATION PATHWAYS
+--------------------
+
+Step 1 — Immediate Safety:
+- If in physical danger: Call 100 (Police) or 112 (Emergency Services)
+- Women's Helpline: 1091
+- Domestic Violence Helpline: 181
+
+Step 2 — Evidence Preservation:
+- Screenshot everything with timestamps
+- Record URLs, usernames, profile links
+- Save all messages (WhatsApp, email, DMs)
+- Do not delete original content — it's evidence
+
+Step 3 — Platform Reporting:
+- Report to platform (Facebook, Instagram, Twitter/X, WhatsApp)
+- Reference IT Act sections in detailed report for faster action
+- Use platform's "Impersonation" or "Harassment" report categories
+
+Step 4 — Formal Complaint:
+- File complaint at: www.cybercrime.gov.in (available 24/7)
+- Alternatively: Visit local Cyber Crime Cell
+- For financial fraud: Call 1930 immediately
+
+Step 5 — Legal Action:
+- File FIR at police station (cognizable offences cannot be refused)
+- Consult a cyber law attorney for civil remedies
+- Seek protection order from court if stalking/threatening
+
+Step 6 — Support Resources:
+- iCall (Mental Health): 9152987821
+- SNEHI Helpline: 044-24640050
+- One Stop Centre: 181
+- National Commission for Women: 7827170170
+
+
+EVIDENCE COLLECTION GUIDELINES
+--------------------------------
+
+Digital Evidence Must Include:
+1. Full screenshots showing sender information, timestamps, platform URL
+2. Download/archive posts before they are deleted
+3. Record IP-traceable information if available (email headers, etc.)
+4. Screenshot your own profile showing you did NOT consent
+5. Capture any usernames, display names, profile pictures
+6. Save chat logs as PDF or export from app
+7. For UPI fraud: Save transaction ID, phone number, UPI ID of sender
+
+Chain of Custody:
+- Do not alter screenshots (no cropping that removes metadata)
+- Use original device to capture evidence where possible
+- Email evidence to yourself to timestamp receipt
+- Consider using a trusted third party to witness digital evidence
+
+Admissibility Under IT Act:
+- Electronic records are admissible under Section 65B of Indian Evidence Act
+- Need Certificate from person in charge of computer (Section 65B certificate)
+- Ensure hash values are preserved for integrity
+
+
+GOVERNMENT PORTALS AND HELPLINES
+----------------------------------
+
+1. National Cyber Crime Reporting Portal: www.cybercrime.gov.in
+   - Report cyber crimes 24/7 online
+   - Track complaint status online
+
+2. Cyber Crime Helpline: 1930
+   - Specifically for financial cyber fraud
+   - Call within 1 hour for best chance to freeze funds
+
+3. Women Helpline: 1091
+   - For harassment and safety concerns
+
+4. Emergency: 112 / Police: 100
+
+5. CERT-In (Computer Emergency Response Team): www.cert-in.org.in
+   - For serious cyber security incidents
+
+6. NCW (National Commission for Women): ncw.nic.in | 7827170170
+
+7. Cyber Dost (MHA Initiative): @CyberDost on Twitter
+   - Cyber safety awareness
+
+8. NCPCR (Child Safety): 1098 — If minor is involved
+
+9. RBI Banking Ombudsman: bankingombudsman.rbi.org.in
+   - For financial fraud involving banks
+
+
+PLATFORM-SPECIFIC TAKEDOWN PROCESS
+-------------------------------------
+
+Meta (Facebook/Instagram):
+- Report > "It's inappropriate" > Choose category
+- For intimate images: facebook.com/help/StopNCII
+- Emergency: Use StopNCII.org (hashes image, prevents spread without showing it)
+
+Google (Search/YouTube/Gmail):
+- Search result removal: google.com/webmasters/tools/legal-removal-request
+- YouTube: Report video > Choose appropriate violation
+- Non-consensual intimate images: Report directly via support form
+
+Twitter/X:
+- Report tweet > Select violation type
+- For doxxing: Specifically select "Sharing private information"
+- For intimate images: Select "Intimate media"
+
+WhatsApp:
+- Long-press message > Report
+- Block + report sender
+- Forward evidence to WhatsApp at abuse@whatsapp.com
+
+LinkedIn:
+- Report profile/post > Harassment/inappropriate content
+- Block connection and report
+
+Telegram:
+- For illegal content: Submit to @notoscam or report bot
+- Block contact from profile settings
+
+
+SEXTORTION — SPECIFIC GUIDANCE
+---------------------------------
+
+What is Sextortion:
+- Threatening to release intimate images unless demands (money, more images, sexual favours) are met.
+- One of the fastest-growing cybercrimes in India.
+
+Immediate Steps if Experiencing Sextortion:
+1. DO NOT pay — payment escalates demands, never ends.
+2. DO NOT send more images — this confirms leverage.
+3. Screenshot all threats and demands.
+4. Block the person on all platforms.
+5. Report to cybercrime.gov.in immediately.
+6. Call 1930 if money was already sent.
+7. Contact StopNCII.org to prevent image spread.
+
+Legal Sections Applicable:
+- Section 67A IT Act (sharing intimate content)
+- Section 66E IT Act (violation of privacy)
+- Section 384 IPC — Extortion (imprisonment up to 3 years)
+- Section 385 IPC — Putting person in fear of injury to commit extortion
+- Section 506 IPC — Criminal intimidation

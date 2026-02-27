@@ -1,0 +1,144 @@
+GOVERNMENT SCHEMES FOR WOMEN IN INDIA — COMPREHENSIVE GUIDE
+=============================================================
+
+1. PM MUDRA YOJANA (PMMY) — MICRO-ENTERPRISE LOANS
+----------------------------------------------------
+Type: Loan scheme (not grant)
+Target: Women entrepreneurs starting or expanding micro enterprises
+Loan Categories:
+  - Shishu: Up to Rs. 50,000 (for startups, new businesses)
+  - Kishore: Rs. 50,001 to Rs. 5 lakhs (for growing businesses)
+  - Tarun: Rs. 5 lakhs to Rs. 10 lakhs (for established businesses)
+Eligibility: Any woman with a viable business plan; no collateral required for Shishu/Kishore.
+Interest Rate: Fixed by lending institution, typically 8.5%-12% per annum.
+How to Apply: Visit any public sector bank, private bank, RRB, MFI, or NBFC; apply online at mudra.org.in
+Documents: Aadhaar card, business plan, photos, address proof, caste certificate (if applicable).
+Special benefit: Women borrowers get 0.25% interest rate concession in many banks.
+Success stories: Widely used for tailoring, food processing, beauty parlors, small retail.
+
+2. STAND UP INDIA SCHEME
+--------------------------
+Type: Loan scheme
+Target: SC/ST and women entrepreneurs setting up greenfield enterprises (manufacturing, services, trading).
+Loan Amount: Rs. 10 lakhs to Rs. 1 crore.
+Eligibility: At least 51% shareholding by woman/SC/ST entrepreneur; first-time enterprise.
+Repayment: Up to 7 years with 18-month moratorium.
+How to Apply: standupmitra.in portal or any scheduled commercial bank branch.
+Support: Handholding support via SIDBI, NABARD, and DIPP.
+
+3. STARTUP INDIA — DPIIT RECOGNITION
+--------------------------------------
+Type: Recognition + benefits program
+Target: Innovative startups (including women-led startups).
+Benefits:
+  - Tax exemption for 3 years out of first 10 years.
+  - Self-certification under 6 labor laws and 3 environmental laws.
+  - Fast-track patent application (80% discount on fees).
+  - Government procurement preference.
+  - Rs. 10,000 crore Fund of Funds via SIDBI.
+Eligibility: Incorporated as Private Limited Company, LLP, or Partnership; up to 10 years old; annual turnover < Rs. 100 crore; working on innovative solution.
+How to Apply: startupindia.gov.in → Register → Apply for DPIIT Recognition.
+
+4. WOMEN ENTREPRENEURSHIP PLATFORM (WEP)
+------------------------------------------
+Type: Government platform (NITI Aayog initiative)
+Target: Women entrepreneurs at all stages.
+Services: Mentorship, funding access, market access, compliance support, incubation.
+How to Access: wep.gov.in — free registration.
+Features: 1-on-1 mentorship, masterclasses, startup challenges, networking.
+
+5. PM VISHWAKARMA SCHEME
+--------------------------
+Type: Grant + skill development
+Target: Artisans and craftspeople (including women in traditional crafts like weaving, pottery, tailoring).
+Benefits:
+  - Rs. 15,000 toolkit grant (free).
+  - Skill training (basic: 5-7 days; advanced: 15 days) with Rs. 500/day stipend.
+  - Collateral-free loans: Rs. 1 lakh (Year 1), Rs. 2 lakhs (Year 2) at 5% interest.
+  - Market linkage support.
+Eligibility: Self-employed artisan/craftsperson working with hands; 18 trades covered.
+How to Apply: pmvishwakarma.gov.in or nearest Common Service Centre (CSC).
+
+6. ANNAPURNA SCHEME
+---------------------
+Type: Loan scheme
+Target: Women entrepreneurs in food catering business.
+Loan Amount: Up to Rs. 50,000 (no collateral for small amounts).
+Purpose: Purchase utensils, equipment for catering business.
+Interest: Subsidized rates through State Bank of Mysore and other banks.
+
+7. STREE SHAKTI PACKAGE (STATE BANK OF INDIA)
+----------------------------------------------
+Type: Loan scheme
+Target: Women owning > 50% of enterprise.
+Loan Amount: Varies; higher loan limits for women.
+Benefit: 0.05% concession in interest rate for loans above Rs. 2 lakhs.
+Training: Free EDP (Entrepreneurship Development Programme) training.
+Eligibility: Enrolled in state government's Entrepreneurship Development Programme.
+
+8. MAHILA UDYAM NIDHI SCHEME (PUNJAB NATIONAL BANK)
+-----------------------------------------------------
+Type: Loan + equity scheme
+Target: Women entrepreneurs for small scale industries.
+Loan Amount: Up to Rs. 10 lakhs.
+Repayment: Up to 10 years.
+Purpose: Setting up or upgrading small enterprises.
+
+9. CENTRAL SECTOR SCHEME FOR WOMEN — RASHTRIYA MAHILA KOSH (RMK)
+------------------------------------------------------------------
+Type: Micro-credit facility
+Target: Women in informal sector, low-income groups.
+Loan Amount: Up to Rs. 1 lakh through NGOs/intermediaries.
+Interest Rate: 8% per annum (subsidized).
+
+10. PRADHAN MANTRI AWAS YOJANA (PMAY) — WOMEN COMPONENT
+---------------------------------------------------------
+Type: Housing subsidy
+Benefit: Mandatory co-ownership requirement benefits women; credit-linked subsidy.
+EWS/LIG: Interest subsidy of 6.5% on loan up to Rs. 6 lakhs.
+MIG-I: 4% interest subsidy on loan up to Rs. 9 lakhs.
+MIG-II: 3% interest subsidy on loan up to Rs. 12 lakhs.
+Note: Property must be registered in woman's name (or jointly) for EWS/LIG.
+
+11. SUKANYA SAMRIDDHI YOJANA
+------------------------------
+Type: Savings scheme for girl child
+Interest Rate: 8.2% per annum (as of 2024, revised quarterly).
+Investment: Min Rs. 250 / year; Max Rs. 1.5 lakh / year.
+Tax benefit: Fully exempt under Section 80C and on maturity.
+Eligibility: Parents/guardians can open for girl child up to age 10.
+Maturity: On girl reaching 21 years or marriage after 18.
+
+12. BETI BACHAO BETI PADHAO
+------------------------------
+Type: Awareness + convergence scheme
+Focus: Improving sex ratio, girls' education and welfare.
+Financial benefits: Linked with Sukanya Samriddhi for saving encouragement.
+Districts: Special focus on 640 districts across India.
+
+13. NIRBHAYA FUND INITIATIVES
+-------------------------------
+Type: Safety infrastructure fund
+Programs funded: Safe City programme, emergency response system (112), CCTVs in public spaces, one-stop centres for survivors.
+One-Stop Centres: Available in 700+ districts; provide medical, legal, psychological support to survivors of violence.
+
+14. NATIONAL RURAL LIVELIHOODS MISSION (DAY-NRLM) — MAHILA KISAN SASHAKTIKARAN
+----------------------------------------------------------------------------------
+Type: Livelihood + SHG support
+Target: Rural women farmers.
+Benefits: Formation of Self Help Groups (SHGs); bank linkage; skill training; interest subvention on loans (7% effective rate).
+Coverage: 9 crore+ women in SHGs nationwide.
+
+15. DIGITAL SAKHI PROGRAMME
+------------------------------
+Type: Digital literacy
+Target: Rural women to become digital entrepreneurs.
+Training: Digital payments, e-governance services, mobile banking.
+Earning: Sakhi earns commission by providing digital services to villagers.
+
+HOW TO FIND ALL SCHEMES:
+- myscheme.gov.in — National single window for all government schemes
+- wep.gov.in — Women Entrepreneurship Platform
+- startupindia.gov.in — Startup ecosystem
+- msme.gov.in — Ministry of MSME schemes
+- mudra.org.in — MUDRA loans

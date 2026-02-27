@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+orchestrator/chroma_db/
+orchestrator/memory_store/
+orchestrator/.env
+
+# Node
+node_modules/
+backend/.env
+frontend/.env
+
+# Misc
+.DS_Store
+Thumbs.db
+*.log
+.env

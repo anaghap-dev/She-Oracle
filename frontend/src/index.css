@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: "Inter", system-ui, sans-serif;
+  }
+  body {
+    @apply bg-gray-950 text-gray-100 antialiased;
+  }
+  * {
+    @apply box-border;
+  }
+}
+
+@layer utilities {
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: #6b21a8 #1f1f2e;
+  }
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+  }
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: #1f1f2e;
+  }
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: #6b21a8;
+    border-radius: 3px;
+  }
+
+  .glass {
+    @apply bg-white/5 backdrop-blur-md border border-white/10;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-oracle-400 to-rose-400 bg-clip-text text-transparent;
+  }
+
+  .glow-oracle {
+    box-shadow: 0 0 20px rgba(217, 70, 239, 0.3);
+  }
+}
+
+/* Typing animation for agent thinking */
+@keyframes blink {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0; }
+}
+.cursor-blink {
+  animation: blink 1s step-end infinite;
+}
+
+/* SSE stream text fade-in */
+@keyframes streamFadeIn {
+  from { opacity: 0; transform: translateY(4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.stream-item {
+  animation: streamFadeIn 0.3s ease-out forwards;
+}

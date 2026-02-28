@@ -17,7 +17,10 @@ Loop:
 import json
 import asyncio
 import re
+import logging
 from typing import AsyncGenerator
+
+logger = logging.getLogger(__name__)
 from gemini_client import generate, is_gemini_response_ok
 from fallback_responses import get_fallback_plan
 

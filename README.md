@@ -37,7 +37,7 @@
 
 ## Screenshots
 
-> _Add screenshots to `docs/screenshots/` and update these paths._
+> _Click on pictures to expand._
 
 | Cab Safety | Career | Legal Rights | Education | Finance | Grants | Protection |
 |---|---|---|---|---|---|---|

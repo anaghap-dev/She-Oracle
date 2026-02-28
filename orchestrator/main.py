@@ -45,9 +45,11 @@ def _auto_seed():
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    # Run seed in a thread so it doesn't block the event loop
+    # Fire seed in background — do NOT await it.
+    # Render detects the port only after startup completes; awaiting a slow
+    # seed (30s+) causes Render to kill the process before the port is open.
     loop = asyncio.get_event_loop()
-    await loop.run_in_executor(None, _auto_seed)
+    loop.run_in_executor(None, _auto_seed)
     yield
 
 

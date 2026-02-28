@@ -1,5 +1,7 @@
 # SHE-ORACLE — Autonomous AI for Women Empowerment
 
+![SHE-ORACLE Banner](docs/screenshots/banner.png)
+
 > An autonomous multi-agent AI system that helps women navigate career growth, legal rights, financial independence, education opportunities, and personal safety — powered by Google Gemini and a RAG knowledge base of Indian laws and government schemes.
 
 **Live Demo:** [she-oracle.vercel.app](https://she-oracle.vercel.app)

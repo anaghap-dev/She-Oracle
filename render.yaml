@@ -29,3 +29,5 @@ services:
         sync: false          # fill after orchestrator is deployed
       - key: FRONTEND_URL
         sync: false          # fill after frontend is deployed
+      - key: SELF_URL
+        value: https://she-oracle-backend.onrender.com

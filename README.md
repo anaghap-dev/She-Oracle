@@ -48,11 +48,9 @@
 
 ## Demo Video
 
-https://youtu.be/AVCsdVeHe9s
 
 
-
-[![SHE-ORACLE Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://youtube.com)
+[![SHE-ORACLE Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://youtu.be/AVCsdVeHe9s)
 
 ---
 

@@ -39,9 +39,9 @@
 
 > _Add screenshots to `docs/screenshots/` and update these paths._
 
-| Home | Agent Response | Protection Tools |
-|---|---|---|
-| ![Home](docs/screenshots/home.png) | ![Agent](docs/screenshots/agent.png) | ![Protection](docs/screenshots/protection.png) |
+| Cab Safety | Career | Legal Rights | Education | Finance | Grants | Protection |
+|---|---|---|---|---|---|---|
+| ![Cab](docs/screenshots/She-Oracle-Cab-Safety.png) | ![Career](docs/screenshots/She-Oracle-Career.png) | ![Legal](docs/screenshots/She-Oracle-Legal-Rights.png) | ![Education](docs/screenshots/She-Oracle-Education) | ![Finance](docs/screenshots/She-Oracle-Finance) | ![Grants](docs/screenshots/She-Oracle-Grants) | ![Protection](docs/screenshots/She-Oracle-Protection) |
 
 ---
 

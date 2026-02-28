@@ -33,9 +33,7 @@ export default function Sidebar() {
       {/* Logo */}
       <div className="p-6 border-b border-white/10">
         <div className="flex items-center gap-3">
-          <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-oracle-500 to-rose-500 flex items-center justify-center glow-oracle">
-            <Sparkles size={18} className="text-white" />
-          </div>
+          <img src="/oracle-icon.png" alt="SHE-ORACLE logo" className="w-9 h-9 rounded-xl" />
           <div>
             <h1 className="font-bold text-lg leading-tight gradient-text">SHE-ORACLE</h1>
             <p className="text-xs text-gray-500">AI Strategist for Women</p>

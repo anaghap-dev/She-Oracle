@@ -49,7 +49,6 @@
 
 ## Demo Video
 
-> _Add your demo video link here._
 
 [![SHE-ORACLE Demo](https://img.shields.io/badge/Watch%20Demo-YouTube-red)](https://youtube.com)
 

@@ -5,4 +5,4 @@ chromadb==0.5.23
 python-dotenv==1.0.1
 httpx==0.28.1
 pydantic==2.10.3
-pydantic-core==2.27.2
+pydantic-core==2.27.1

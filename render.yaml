@@ -1,0 +1,30 @@
+services:
+  # ── Orchestrator (Python FastAPI) ──────────────────────────────────────────
+  - type: web
+    name: she-oracle-orchestrator
+    runtime: python
+    rootDir: orchestrator
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /health
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false          # you fill this in Render dashboard
+      - key: BACKEND_URL
+        sync: false          # fill after backend is deployed
+      - key: CHROMA_PERSIST_DIR
+        value: ./chroma_db
+
+  # ── Backend (Node.js Express) ───────────────────────────────────────────────
+  - type: web
+    name: she-oracle-backend
+    runtime: node
+    rootDir: backend
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: PYTHON_ORCHESTRATOR_URL
+        sync: false          # fill after orchestrator is deployed
+      - key: FRONTEND_URL
+        sync: false          # fill after frontend is deployed

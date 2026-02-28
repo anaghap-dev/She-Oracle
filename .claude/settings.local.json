@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(venvScriptspython.exe rag/seed_knowledge.py)"
+      "Bash(venvScriptspython.exe rag/seed_knowledge.py)",
+      "Bash(git -C \"c:/Users/Sooraj/VSCode Projects/Projects/She-Oracle\" status)",
+      "Bash(git -C \"c:/Users/Sooraj/VSCode Projects/Projects/She-Oracle\" diff orchestrator/main.py orchestrator/rag/embedder.py)"
     ]
   }
 }

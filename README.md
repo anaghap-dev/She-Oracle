@@ -41,7 +41,7 @@
 
 | Cab Safety | Career | Legal Rights | Education | Finance | Grants | Protection |
 |---|---|---|---|---|---|---|
-| ![Cab](docs/screenshots/She-Oracle-Cab-Safety.png) | ![Career](docs/screenshots/She-Oracle-Career.png) | ![Legal](docs/screenshots/She-Oracle-Legal-Rights.png) | ![Education](docs/screenshots/She-Oracle-Education) | ![Finance](docs/screenshots/She-Oracle-Finance) | ![Grants](docs/screenshots/She-Oracle-Grants) | ![Protection](docs/screenshots/She-Oracle-Protection) |
+| ![Cab](docs/screenshots/She-Oracle-Cab-Safety.png) | ![Career](docs/screenshots/She-Oracle-Career.png) | ![Legal](docs/screenshots/She-Oracle-Legal-Rights.png) | ![Education](docs/screenshots/She-Oracle-Education.png) | ![Finance](docs/screenshots/She-Oracle-Finance.png) | ![Grants](docs/screenshots/She-Oracle-Grants.png) | ![Protection](docs/screenshots/She-Oracle-Protection.png) |
 
 ---
 

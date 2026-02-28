@@ -27,12 +27,27 @@ from tools.cab_safety_advisor import generate_cab_safety_response as _generate_c
 from gemini_client import gemini_status
 
 
+def _auto_seed():
+    """Seed ChromaDB on startup if empty — needed on Render (no persistent disk, no shell)."""
+    try:
+        count = collection_count()
+        if count > 0:
+            print(f"SHE-ORACLE Orchestrator started. ChromaDB has {count} knowledge chunks.")
+            return
+        print("ChromaDB is empty — auto-seeding knowledge base...")
+        # Import here to avoid circular imports at module level
+        from rag.seed_knowledge import seed
+        seed()
+        print(f"Auto-seed complete. ChromaDB now has {collection_count()} chunks.")
+    except Exception as e:
+        print(f"WARNING: Auto-seed failed: {e}. RAG will be unavailable.")
+
+
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    count = collection_count()
-    print(f"SHE-ORACLE Orchestrator started. ChromaDB has {count} knowledge chunks.")
-    if count == 0:
-        print("WARNING: Knowledge base is empty. Run: python rag/seed_knowledge.py")
+    # Run seed in a thread so it doesn't block the event loop
+    loop = asyncio.get_event_loop()
+    await loop.run_in_executor(None, _auto_seed)
     yield
 
 

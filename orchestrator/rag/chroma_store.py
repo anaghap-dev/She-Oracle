@@ -50,5 +50,17 @@ def query_collection(query_embedding: list[float], n_results: int = 5, where: di
     return results
 
 
+def reset_collection():
+    """Delete and recreate the collection — use when embedding dimensions change."""
+    global _collection
+    client = get_client()
+    try:
+        client.delete_collection(name=COLLECTION_NAME)
+    except Exception:
+        pass
+    _collection = None
+    return get_collection()
+
+
 def collection_count() -> int:
     return get_collection().count()

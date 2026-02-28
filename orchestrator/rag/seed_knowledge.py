@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 from rag.embedder import embed_texts
-from rag.chroma_store import add_documents, collection_count, get_collection
+from rag.chroma_store import add_documents, collection_count, reset_collection
 
 KNOWLEDGE_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "knowledge")
 
@@ -42,6 +42,8 @@ def chunk_text(text: str, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK_OVE
 
 def seed():
     print("Starting knowledge base seeding...")
+    print("Resetting collection (clearing old embeddings)...")
+    reset_collection()
     total_chunks = 0
 
     for filename, category in KNOWLEDGE_FILES.items():
